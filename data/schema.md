@@ -9,8 +9,7 @@ File defines fields needed for the database.
 | `korean_reading` | String | The Korean reading of the Hanja character. |
 | `english_meaning` | String | The English meaning of the character. |
 | `tier_difficulty` | String or Integer | The tier or difficulty level assigned to the character. |
-| `type_element` | String | The type or element classification for the character. |
-| `skill_category` | String | The learning skill category this character belongs to. |
+| `combat_class` | String | The type or element classification for the character. |
 | `mastery_level` | String or Integer | The learner’s current mastery level for the character. |
 
 ## Fields
@@ -28,13 +27,10 @@ The Korean pronunciation or reading of the Hanja character.
 The English definition or meaning of the Hanja character.
 
 ### `tier_difficulty`
-The assigned tier or difficulty level.
+The assigned tier or difficulty level, which are classified from a range of F to S, F being the easiest, and S being the most difficult to beat.
 
-### `type_element`
-The character’s type, element, or classification.
-
-### `skill_category`
-The learning category connected to the character.
+### `combat_class`
+The character’s combat classification. The designations are: magic (attacks using supernatural skills), tank (absorbs damage), DPS (deals high damage), support (heals, buffs, debuffs), and stealth (critical hits).
 
 ### `mastery_level`
-The user’s current progress or mastery level for the character.
+The user’s current progress based on the number of characters they learn. The user earns one level up each character that they beat and add to their roster.
