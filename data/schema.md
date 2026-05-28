@@ -8,7 +8,7 @@ File defines fields needed for the database.
 | `hanja_character` | String | The Hanja character. |
 | `korean_reading` | String | The Korean reading of the Hanja character. |
 | `english_meaning` | String | The English meaning of the character. |
-| `tier_difficulty` | String or Integer | The tier or difficulty level assigned to the character. |
+| `tier_difficulty` | String | The tier or difficulty level assigned to the character. |
 | `combat_class` | String | The type or element classification for the character. |
 | `mastery_level` | String or Integer | The learner’s current mastery level for the character. |
 
