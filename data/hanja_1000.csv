@@ -1,0 +1,22 @@
+| id | hanja_character | korean_reading | english_meaning   | tier_difficulty | combat_class | mastery_level |
+
+|  1 | 一               | 일              | one               | F               | dps          |             0 |
+|  2 | 二               | 이              | two               | F               | dps          |             0 |
+|  3 | 三               | 삼              | three             | F               | dps          |             0 |
+|  4 | 四               | 사              | four              | F               | dps          |             0 |
+|  5 | 五               | 오              | five              | F               | dps          |             0 |
+|  6 | 六               | 육              | six               | F               | dps          |             0 |
+|  7 | 七               | 칠              | seven             | F               | dps          |             0 |
+|  8 | 八               | 팔              | eight             | F               | dps          |             0 |
+|  9 | 九               | 구              | nine              | F               | dps          |             0 |
+| 10 | 十               | 십              | ten               | F               | dps          |             0 |
+| 11 | 日               | 일              | sun; day          | F               | magic        |             0 |
+| 12 | 月               | 월              | moon; month       | F               | magic        |             0 |
+| 13 | 火               | 화              | fire              | F               | magic        |             0 |
+| 14 | 水               | 수              | water             | F               | magic        |             0 |
+| 15 | 木               | 목              | tree; wood        | F               | magic        |             0 |
+| 16 | 金               | 금              | metal; gold       | F               | tank         |             0 |
+| 17 | 土               | 토              | earth; soil       | F               | tank         |             0 |
+| 18 | 山               | 산              | mountain          | F               | tank         |             0 |
+| 19 | 川               | 천              | river             | F               | support      |             0 |
+| 20 | 田               | 전              | field             | F               | support      |             0 |

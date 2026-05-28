@@ -27,7 +27,7 @@ The Korean pronunciation or reading of the Hanja character.
 The English definition or meaning of the Hanja character.
 
 ### `tier_difficulty`
-The assigned tier or difficulty level, which are classified from a range of F to S, F being the easiest, and S being the most difficult to beat.
+The assigned tier or difficulty level, which are classified from a range of F to S (F, D, C, B, A, S), F being the easiest, and S being the most difficult to beat.
 
 ### `combat_class`
 The character’s combat classification. The designations are: magic (attacks using supernatural skills), tank (absorbs damage), DPS (deals high damage), support (heals, buffs, debuffs), and stealth (critical hits).
